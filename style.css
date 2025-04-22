@@ -87,7 +87,7 @@ section {
 /* About You and Contact Box */
 .about-contact-box {
   padding: 20px;
-  border: 2px dotted red;
+  border: 2px solid red;
   border-radius: 10px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   cursor: pointer;
